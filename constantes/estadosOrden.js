@@ -1,0 +1,17 @@
+export const valores_estados = {
+    ST_OS_CREADA: "Creada",
+    ST_OS_SOL_DESC: "Solicitud de descargos",
+    ST_OS_ASGN: "Asignada",
+    ST_OS_EJEC_IPO: "IPO en ejecución",
+    ST_OS_EJEC_RG: "RG en ejecución",
+    ST_OS_EJEC_PT: "Planilla de trabajo en ejecución",
+    ST_OS_ENV_SPRV: "Para envío a supervisor",
+    ST_OS_POR_RVS: "Por revisar supervisor",
+    ST_OS_EJEC: "Ejecutada",
+    ST_OS_RCHZ: "Rechazada",
+    ST_OS_PARA_RPRG: "ST_OS_PARA_RPRG",
+    ST_OS_RPRG_SOL_DESC: "ST_OS_RPRG_SOL_DESC",
+    ST_OS_REPROGRAMADA: "ST_OS_REPROGRAMADA",
+    ST_OS_RPRG_EJEC_IPO: "ST_OS_RPRG_EJEC_IPO",
+    ST_OS_RPRG_EJEC_RG: "ST_OS_RPRG_EJEC_RG",
+};

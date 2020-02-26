@@ -1,6 +1,6 @@
-# ingelectrica_react
-APK para ingeléctrica S.A.
-Versión 4.0 de APK para toma de información en terreno por parte de las cuadrillas de Ingeléctrica S.A, aplicable a varios contratistas de CODENSA S.A
+# transformadores_react
+APK para toma de información de transformadores
+Versión 4.0 de APK para toma de información en terreno por parte de las cuadrillas de contratistas de ENEL-CODENSA
 
 # Características:
 - Empleo de webservices MERN
